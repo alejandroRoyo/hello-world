@@ -1,2 +1,2 @@
-# Soy Alejandro Royo Cortés
-Alumno 2ºDAW
+# I'm Alejandro Royo Cortés
+Student 2nd DAW
